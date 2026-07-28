@@ -69,7 +69,7 @@
 | **AI-Powered Customer Review Analyzer** | Python, Transformers (BERTweet, BART), NLP, Streamlit | Automated sentiment detection & zero-shot topic categorization — 85% accuracy. Interactive Streamlit + Plotly dashboard. | [Live Demo](https://review-analyzer-ai.streamlit.app) |
 | **AI Video Summarizer & Mindmap Generator** | Python, FastAPI, Whisper, Transformers | End-to-end pipeline (Whisper + Pegasus-XSUM + Llama 3) turning raw video into structured summaries & visual mindmaps. | [Repo](https://github.com/vedikakute06/Summarizer) |
 | **SkillSync** – Hackathon Team Collaboration Platform | React Native, Node.js, Express, MongoDB, Redux | Cross-platform mobile app for finding hackathon teammates via domain-expertise & skill-based matching. Led frontend dev + built a Q&A forum backend with RESTful APIs. | [Repo](https://github.com/vedikakute06/SkillSync_FB) |
-| **CoDoc** | — | Collaborative documentation tool. | [Repo](https://github.com/vedikakute06/CoDoc) |
+| **CoDoc** | Python, Github, LLM | Collaborative documentation tool. | [Repo](https://github.com/vedikakute06/CoDoc) |
 | **SMS Spam Classifier** | Python, NLP | Text classification model to detect spam SMS messages. | [Repo](https://github.com/vedikakute06/sms-spam-classifier) |
 
 ---
