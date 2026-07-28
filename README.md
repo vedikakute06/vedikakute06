@@ -57,7 +57,7 @@
 
 | Project | Tech Stack | Description | Link |
 |---|---|---|---|
-| **Milun_Money** | — | Hackathon project focused on money/finance management. | [Repo](https://github.com/vedikakute06/Milun_Money) |
+| **Milun_Money** |  React Native, Node.js, Express, MongoDB | Hackathon project focused on money/finance management. | [Repo](https://github.com/vedikakute06/Milun_Money) |
 | **WealthLens** – AI Personal Finance Dashboard | React, Node.js, MongoDB, Groq API (Llama 3.3 70B) | Budget tracking across 10+ categories, CSV bulk upload, LLM-powered AI Insights engine, What-If Simulator, Retirement Planner, Risk Alerts. | [Repo](https://github.com/vedikakute06/QuickAI) |
 | **InsurGenie** – AI Insurance Risk Platform | Python, scikit-learn, React, Google Auth | Reverse Underwriting ML system generating real-time risk profiles (Low/Med/High) across Health, Lifestyle & Driving pillars. | [Repo](https://github.com/vedikakute06/InsurGenie) |
 
