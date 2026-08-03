@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineering student (Honors in AI & ML) | Building with data, ML, and full-stack apps</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="[https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/vedika-kute-602b22282/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:vedikakute06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Pune,%20India-262626?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
@@ -57,9 +57,9 @@
 
 | Project | Tech Stack | Description | Link |
 |---|---|---|---|
-| **Milun_Money** |  React Native, Node.js, Express, MongoDB | Hackathon project focused on money/finance management. | [Repo](https://github.com/vedikakute06/Milun_Money) |
+| **Milun_Money** |  React Native, Node.js, Express, MongoDB | A MERN stack hackathon project for collaborative expense tracking and budget management, with built-in UPI payments via Razorpay and real-time notifications using Socket.io. | [Repo](https://github.com/vedikakute06/Milun_Money) |
 | **WealthLens** – AI Personal Finance Dashboard | React, Node.js, MongoDB, Groq API (Llama 3.3 70B) | Budget tracking across 10+ categories, CSV bulk upload, LLM-powered AI Insights engine, What-If Simulator, Retirement Planner, Risk Alerts. | [Repo](https://github.com/vedikakute06/QuickAI) |
-| **InsurGenie** – AI Insurance Risk Platform | Python, scikit-learn, React, Google Auth | Reverse Underwriting ML system generating real-time risk profiles (Low/Med/High) across Health, Lifestyle & Driving pillars. | [Repo](https://github.com/vedikakute06/InsurGenie) |
+| **InsurGenie** – AI Insurance Risk Platform | Python, scikit-learn, React, Google Auth | An ML-powered digital insurance platform that uses real-time health, lifestyle, and driving data to assess risk instantly and gamifies wellness habits to help users earn lower premiums. | [Repo](https://github.com/vedikakute06/InsurGenie) |
 
 ## 💻 Projects
 
@@ -69,7 +69,7 @@
 | **AI-Powered Customer Review Analyzer** | Python, Transformers (BERTweet, BART), NLP, Streamlit | Automated sentiment detection & zero-shot topic categorization — 85% accuracy. Interactive Streamlit + Plotly dashboard. | [Live Demo](https://review-analyzer-ai.streamlit.app) |
 | **AI Video Summarizer & Mindmap Generator** | Python, FastAPI, Whisper, Transformers | End-to-end pipeline (Whisper + Pegasus-XSUM + Llama 3) turning raw video into structured summaries & visual mindmaps. | [Repo](https://github.com/vedikakute06/Summarizer) |
 | **SkillSync** – Hackathon Team Collaboration Platform | React Native, Node.js, Express, MongoDB, Redux | Cross-platform mobile app for finding hackathon teammates via domain-expertise & skill-based matching. Led frontend dev + built a Q&A forum backend with RESTful APIs. | [Repo](https://github.com/vedikakute06/SkillSync_FB) |
-| **CoDoc** | Python, Github, LLM | Collaborative documentation tool. | [Repo](https://github.com/vedikakute06/CoDoc) |
+| **CoDoc** | Python, Github, LLM | A Python tool that analyzes GitHub repositories and automatically generates professional documentation in Markdown or HTML, with support for customizable templates and GitHub API integration. | [Repo](https://github.com/vedikakute06/CoDoc) |
 | **SMS Spam Classifier** | Python, NLP | Text classification model to detect spam SMS messages. | [Repo](https://github.com/vedikakute06/sms-spam-classifier) |
 
 ---
