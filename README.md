@@ -10,9 +10,9 @@
 ---
 
 ### 🚀 About Me
-
 - 🎓 Fourth-year B.E. Computer Engineering student at **Pune Institute of Computer Technology** — CGPA **9.6/10.0**
-- 💼 Currently a **Software Development Intern** at **Knorr-Bremse Technology Center India**, automating documentation workflows and debugging enterprise apps
+- 🔬 Currently working with **L3Cube Labs** on my B.E. project — a research-oriented remote internship
+- 💼 Previously a **Research & Development Intern** at **Knorr-Bremse Technology Center India**, automating documentation workflows and debugging enterprise apps
 - 🤖 Completed a **Google AI-ML Virtual Internship (AICTE–EduSkills)** — graded *Outstanding*, building TensorFlow Lite object-detection & image-classification models
 - 🧠 Deep-diving into **LLMs, RAG, QLoRA & AI Agents** (Ed Donner's AI Engineer Core Track)
 - 🏆 Active member of **PICT ACM Student Chapter**, co-organized hackathons with 200+ participants
